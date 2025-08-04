@@ -1,4 +1,4 @@
-# The Helm Manifesto
+
 ### A Pledge for Thoughtful Work
 
 ---
